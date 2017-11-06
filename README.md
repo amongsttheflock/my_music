@@ -12,6 +12,6 @@ Technically, I want to have basic understanding of SQLAlchemy and practice it in
 
 ### Task list
 - [x] Signing up, logging in
-- [] Adding, modifying and deleting records
-- [] Searching records
-- [] Viewing other users' records and adding particular record to our database
+- [ ] Adding, modifying and deleting records
+- [ ] Searching records
+- [ ] Viewing other users' records and adding particular record to our database
